@@ -47,7 +47,9 @@ The repository includes the following Jupyter Notebook files:
    - Open the desired notebook in Jupyter Notebook or Google Colab.
    - Follow the instructions within the notebook to train and evaluate the model.  
    - For ablation experiments, each notebook is self-contained and explains which stream or component is masked.
-
+     
+4. **Trained Model:**
+   You can download at:https://drive.google.com/drive/folders/1GGNjH5sZPmiWgQqWv6OXqmabO6xiGzMl?usp=sharing.
 
 ## Contact
 
