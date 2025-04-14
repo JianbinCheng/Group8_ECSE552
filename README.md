@@ -1,6 +1,6 @@
 # Deep learning-Based Plant Disease Detection Using Lightweight Vision Transformers (LeViT)
 
-This repository contains the code for our final project on automated plant disease detection using a dual-stream LeViT-192 architecture. The project focuses on detecting diseases on tomato leaves by leveraging two complementary image preprocessing streams—color jittering and K-means segmentation—and fusing their extracted features via a lightweight Vision Transformer. In addition, extensive ablation studies are performed to evaluate the contribution of each data stream and of key LeViT components.
+This repository contains the code for the final project on automated plant disease detection using a dual-stream LeViT-192 architecture. The project focuses on detecting diseases on tomato leaves by leveraging two complementary image preprocessing streams—color jittering and K-means segmentation—and fusing their extracted features via a lightweight Vision Transformer. In addition, extensive ablation studies are performed to evaluate the contribution of each data stream and of key LeViT components.
 
 ## Repository Contents
 
