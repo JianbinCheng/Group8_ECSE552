@@ -22,7 +22,7 @@ The repository includes the following Jupyter Notebook files:
    
 
 5. **Ablation_DualStream_maskingColor_keepK.ipynb**  
-   - **Description:** Implements an ablation experiment on the dual-stream structure in which the color-jitter (original) stream is masked.  
+   - **Description:** Implements an ablation experiments on the dual-stream structure in which the color-jitter (original) stream is masked.  
    
 
 6. **Ablation_DualStream_maskingK_keepColor.ipynb**  
